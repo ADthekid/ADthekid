@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Atharv
-- 👀 I’m interested in web and app development, ML/AI, and blockchain
-- 🌱 I’m currently learning at Basis Independent Fremont.
-- 💞️ I’m looking to collaborate on anything interesting that catches me eye. 
-- 📫 How to reach me adeshmukh2007@gmail.com
+- 👋 I'm Atharv, and 18 year old from SF.
+- Currently building Scholar Scoops, Code for Cause, and pulling up to as many hackathons as possible. 
+- HMU at adeshmukh2007@gmail.com or find me on LinkedIn at https://www.linkedin.com/in/atharv-deshmukh/.
 
 <!---
 ADthekid/ADthekid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
