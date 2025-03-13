@@ -1,4 +1,4 @@
-- 👋 I'm Atharv, and 18 year old from SF.
+- 👋 I'm Atharv, an 18 year old from SF.
 - Building Scholar Scoops, Code for Cause, and pulling up to as many hackathons as possible.
 - HMU at atharv@codeforcause.dev or find me on LinkedIn at https://www.linkedin.com/in/atharv-deshmukh/.
 
